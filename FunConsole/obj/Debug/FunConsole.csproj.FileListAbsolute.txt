@@ -1,0 +1,7 @@
+D:\FunConsole\FunConsole\FunConsole\bin\Debug\FunConsole.exe.config
+D:\FunConsole\FunConsole\FunConsole\bin\Debug\FunConsole.exe
+D:\FunConsole\FunConsole\FunConsole\bin\Debug\FunConsole.pdb
+D:\FunConsole\FunConsole\FunConsole\obj\Debug\FunConsole.csprojAssemblyReference.cache
+D:\FunConsole\FunConsole\FunConsole\obj\Debug\FunConsole.csproj.CoreCompileInputs.cache
+D:\FunConsole\FunConsole\FunConsole\obj\Debug\FunConsole.exe
+D:\FunConsole\FunConsole\FunConsole\obj\Debug\FunConsole.pdb
